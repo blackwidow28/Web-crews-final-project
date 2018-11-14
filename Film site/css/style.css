@@ -1,0 +1,62 @@
+.header {
+  background-image: url("logo.png");
+  text-align: center;
+  max-height: 200px;
+  max-width: 100%;
+  margin: none;
+}
+
+h1 {
+color: black;
+font-family: 'Allerta Stencil', sans-serif;
+font-size: 80px;
+
+}
+
+h3 {
+  font-family: 'KoHo', sans-serif;
+  color: red;
+}
+
+body {
+  font-family: 'KoHo', sans-serif;
+  text-align: center;
+
+}
+
+ul {
+        padding: 10px;
+        text-align: center;
+        background-color: black;
+      }
+      li {
+
+        display: inline;
+        padding: 0px 10px 0px 10px;
+        color: red;
+      }
+      a {
+        color: white;
+      }
+.vertical_banner {
+  background-color: rgba(240,0,0,1);
+  height: 1000px;
+  width: 100px;
+  float: right;
+  margin-right: 100px;
+}
+
+img {
+  max-width: 10%;
+  text-align: left;
+  padding: 20px;
+  margin: 40px 0px 0px 0px;
+  border: 7px solid black;
+  border-radius: 20px;
+  text-align: center;
+
+}
+
+.body {
+  padding: 30px;
+}
